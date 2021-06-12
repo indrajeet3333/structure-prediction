@@ -1,0 +1,4 @@
+GUAG
+.{}.
+max count of pairs
+1
